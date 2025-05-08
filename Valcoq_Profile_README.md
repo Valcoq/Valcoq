@@ -2,11 +2,7 @@
 # 🧮 Steve aka Valcoq
 
 <p align="center">
-  <img src="C:\Users\sgeld\Pictures\Valcoq_retro" alt="Valcoq Retro Banner" />
-</p>
-
-<p align="center">
-  <b>Softwareentwickler aus Leidenschaft mit einem Faible für Retro-Flair, Pixelästhetik & verrückten Projektideen!</b>
+  <img src="Valcoq_retro.png" alt="Valcoq Retro Banner">
 </p>
 
 ---
